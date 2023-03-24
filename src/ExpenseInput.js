@@ -65,6 +65,11 @@ class ExpenseInput extends Component {
               Description
             </label>
           </div>
+          <div>
+            <button type="button" className="btn btn-success">
+              Add Expense
+            </button>
+          </div>
         </form>
       </div>
     );
