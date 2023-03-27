@@ -1,8 +1,9 @@
-import React, { Component } from "react";
+import React from "react";
 
-class Chart extends Component {
-  render() {
-    return <div></div>;
-  }
+export default function Chart() {
+  return (
+    <div>
+      <h1>Chart Placeholder</h1>
+    </div>
+  );
 }
-export default Chart;
