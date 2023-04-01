@@ -1,6 +1,29 @@
 import React from "react";
 
-export default function ExpenseTable() {
+export default function ExpenseTable(props) {
+  const items = props;
+
+  function tableRows() {
+    if (items.rows.length === undefined || items.rows.length === 0) {
+      return <tr></tr>;
+    } else {
+      return items.rows.map((item) => (
+        <tr key={item.id}>
+          <td>{item.id}</td>
+          <td>{item.category}</td>
+          <td>{item.location}</td>
+          <td>{item.amount}</td>
+          <td>{item.date}</td>
+          <td>{item.description}</td>
+          <td className="text-center">
+            <button id={item.id} className="btn btn-danger">
+              {item.remove}
+            </button>
+          </td>
+        </tr>
+      ));
+    }
+  }
   return (
     <div className="table-responsive-lg">
       <table className="table table-striped">
@@ -12,9 +35,10 @@ export default function ExpenseTable() {
             <th>Amount</th>
             <th>Date</th>
             <th>Description</th>
+            <th className="text-center">Remove</th>
           </tr>
         </thead>
-        <tbody id="table-body"></tbody>
+        <tbody id="table-body">{tableRows()}</tbody>
       </table>
     </div>
   );

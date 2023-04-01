@@ -1,17 +1,40 @@
-import React from "react";
+import React, { useState } from "react";
 
-export default function ExpenseInput() {
+export default function ExpenseInput(props) {
+  const initialInputState = {
+    id: 1,
+    category: "",
+    location: "",
+    amount: "",
+    date: "",
+    description: "",
+    remove: "X",
+  };
+  const [input, setInput] = useState(initialInputState);
+
+  function handleSubmit(e) {
+    e.preventDefault();
+    props.onSaveNewExpense(input);
+    setInput(initialInputState);
+  }
+
+  function handleChange(e) {
+    setInput({ ...input, [e.target.id]: e.target.value });
+  }
+
   return (
     <div className="p-5">
-      <form>
+      <form onSubmit={handleSubmit}>
         <div className="row">
           <div className="col form-floating">
             <input
+              required
               className="form-control mb-3"
               id="category"
               type="text"
               placeholder="Select category..."
-              name="category"
+              value={input.category}
+              onChange={handleChange}
             ></input>
             <label className="form-label ps-4" htmlFor="category">
               Category
@@ -19,10 +42,13 @@ export default function ExpenseInput() {
           </div>
           <div className="col form-floating">
             <input
+              required
               className="form-control mb-3"
               id="location"
               type="tetxt"
               placeholder="Enter location..."
+              value={input.location}
+              onChange={handleChange}
             ></input>
             <label className="form-label ps-4" htmlFor="location">
               Location
@@ -32,10 +58,13 @@ export default function ExpenseInput() {
         <div className="row">
           <div className="col form-floating">
             <input
+              required
               className="form-control mb-3"
               id="amount"
               type="number"
               placeholder="Enter amount..."
+              value={input.amount}
+              onChange={handleChange}
             ></input>
             <label className="form-label ps-4" htmlFor="amount">
               Amount
@@ -43,10 +72,13 @@ export default function ExpenseInput() {
           </div>
           <div className="col form-floating">
             <input
+              required
               className="form-control mb-3"
               id="date"
               type="date"
               placeholder="Select date..."
+              value={input.date}
+              onChange={handleChange}
             ></input>
             <label className="form-label ps-4" htmlFor="date">
               Date
@@ -55,17 +87,20 @@ export default function ExpenseInput() {
         </div>
         <div className="form-floating">
           <input
+            required
             className="form-control mb-3"
             id="description"
             type="text"
             placeholder="Enter a description..."
+            value={input.description}
+            onChange={handleChange}
           ></input>
           <label className="form-label" htmlFor="description">
             Description
           </label>
         </div>
         <div>
-          <button type="button" className="btn btn-success">
+          <button type="submit" className="btn btn-success">
             Add Expense
           </button>
         </div>
