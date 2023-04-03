@@ -1,0 +1,904 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 21.02,
+      "date": "43923",
+      "description": "Stuff for house",
+      "remove": "x"
+    },
+    {
+      "id": 2,
+      "category": "Shopping",
+      "location": "APPLE.COM/BILL",
+      "amount": 15.93,
+      "date": "43923",
+      "description": "App subscription",
+      "remove": "x"
+    },
+    {
+      "id": 3,
+      "category": "Home",
+      "location": "THE HOME DEPOT",
+      "amount": 21.79,
+      "date": "43924",
+      "description": "Landscaping projects",
+      "remove": "x"
+    },
+    {
+      "id": 4,
+      "category": "Entertainment",
+      "location": "GOOGLE *YouTube Videos",
+      "amount": 4.35,
+      "date": "43926",
+      "description": "Movie purchase",
+      "remove": "x"
+    },
+    {
+      "id": 5,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 15.42,
+      "date": "43927",
+      "description": "Stuff for house",
+      "remove": "x"
+    },
+    {
+      "id": 6,
+      "category": "Health & Wellness",
+      "location": "CVS/PHARMACY",
+      "amount": 10,
+      "date": "43927",
+      "description": "Medication",
+      "remove": "x"
+    },
+    {
+      "id": 7,
+      "category": "Home",
+      "location": "THE HOME DEPOT",
+      "amount": 531.47,
+      "date": "43927",
+      "description": "Landscaping projects",
+      "remove": "x"
+    },
+    {
+      "id": 8,
+      "category": "Groceries",
+      "location": "WINN DIXIE",
+      "amount": 8.56,
+      "date": "43927",
+      "description": "Groceries",
+      "remove": "x"
+    },
+    {
+      "id": 9,
+      "category": "Home",
+      "location": "THE HOME DEPOT",
+      "amount": 28.23,
+      "date": "43928",
+      "description": "Landscaping projects",
+      "remove": "x"
+    },
+    {
+      "id": 10,
+      "category": "Automotive",
+      "location": "Tesla",
+      "amount": 10.89,
+      "date": "43930",
+      "description": "Supercharging",
+      "remove": "x"
+    },
+    {
+      "id": 11,
+      "category": "Entertainment",
+      "location": "GOOGLE *YouTube Videos",
+      "amount": 7.99,
+      "date": "43931",
+      "description": "Movie purchase",
+      "remove": "X"
+    },
+    {
+      "id": 12,
+      "category": "Shopping",
+      "location": "TARGET",
+      "amount": 31.34,
+      "date": "43931",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 13,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 14.25,
+      "date": "43933",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 14,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 99.95,
+      "date": "43933",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 15,
+      "category": "Automotive",
+      "location": "Tesla",
+      "amount": 7.02,
+      "date": "43933",
+      "description": "Supercharging",
+      "remove": "X"
+    },
+    {
+      "id": 16,
+      "category": "Home",
+      "location": "THE HOME DEPOT",
+      "amount": 46.33,
+      "date": "43934",
+      "description": "Landscaping projects",
+      "remove": "X"
+    },
+    {
+      "id": 17,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 29.99,
+      "date": "43935",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 18,
+      "category": "Personal",
+      "location": "COSTCO",
+      "amount": 60,
+      "date": "43938",
+      "description": "Groceries",
+      "remove": "X"
+    },
+    {
+      "id": 19,
+      "category": "Bills & Utilities",
+      "location": "ESURANCE CAR INSURANCE",
+      "amount": -42.72,
+      "date": "43938",
+      "description": "March car insurance credit",
+      "remove": "X"
+    },
+    {
+      "id": 20,
+      "category": "Bills & Utilities",
+      "location": "BANFIELD-PET",
+      "amount": 87.9,
+      "date": "43941",
+      "description": "Monthly pet insurance",
+      "remove": "X"
+    },
+    {
+      "id": 21,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 78.54,
+      "date": "43942",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 22,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 23.05,
+      "date": "43942",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 23,
+      "category": "Shopping",
+      "location": "TARGET",
+      "amount": 24.94,
+      "date": "43942",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 24,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 26.99,
+      "date": "43944",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 25,
+      "category": "Home",
+      "location": "THE HOME DEPOT",
+      "amount": 2.02,
+      "date": "43944",
+      "description": "Landscaping projects",
+      "remove": "X"
+    },
+    {
+      "id": 26,
+      "category": "Bills & Utilities",
+      "location": "TMOBILE",
+      "amount": 264.61,
+      "date": "43945",
+      "description": "April phone bill",
+      "remove": "X"
+    },
+    {
+      "id": 27,
+      "category": "Bills & Utilities",
+      "location": "ESURANCE CAR INSURANCE",
+      "amount": 287.68,
+      "date": "43947",
+      "description": "April car insurance",
+      "remove": "X"
+    },
+    {
+      "id": 28,
+      "category": "Groceries",
+      "location": "BODYBUILDING.COM",
+      "amount": 76.5,
+      "date": "43951",
+      "description": "Workout stuff",
+      "remove": "X"
+    },
+    {
+      "id": 29,
+      "category": "Home",
+      "location": "CODY POOLS INC",
+      "amount": 1000,
+      "date": "43951",
+      "description": "Pool deposit",
+      "remove": "X"
+    },
+    {
+      "id": 30,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 35.74,
+      "date": "43954",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 31,
+      "category": "Shopping",
+      "location": "APPLE.COM/BILL",
+      "amount": 15.93,
+      "date": "43954",
+      "description": "App subscription",
+      "remove": "X"
+    },
+    {
+      "id": 32,
+      "category": "Health & Wellness",
+      "location": "CVS/PHARMACY",
+      "amount": 35.12,
+      "date": "43954",
+      "description": "Medication",
+      "remove": "X"
+    },
+    {
+      "id": 33,
+      "category": "Groceries",
+      "location": "WINN DIXIE",
+      "amount": 42.61,
+      "date": "43954",
+      "description": "Groceries",
+      "remove": "X"
+    },
+    {
+      "id": 34,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 22.94,
+      "date": "43955",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 35,
+      "category": "Home",
+      "location": "THE HOME DEPOT",
+      "amount": 89.69,
+      "date": "43955",
+      "description": "Landscaping projects",
+      "remove": "X"
+    },
+    {
+      "id": 36,
+      "category": "Groceries",
+      "location": "TARGET",
+      "amount": 53.13,
+      "date": "43957",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 37,
+      "category": "Health & Wellness",
+      "location": "WALGREENS",
+      "amount": 26.45,
+      "date": "43957",
+      "description": "Consumables",
+      "remove": "X"
+    },
+    {
+      "id": 38,
+      "category": "Gas",
+      "location": "7-ELEVEN",
+      "amount": 17.9,
+      "date": "43958",
+      "description": "Snacks for the beach",
+      "remove": "X"
+    },
+    {
+      "id": 39,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 21.99,
+      "date": "43959",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 40,
+      "category": "Food & Drink",
+      "location": "BURGER KING",
+      "amount": 7.59,
+      "date": "43959",
+      "description": "Eating out",
+      "remove": "X"
+    },
+    {
+      "id": 41,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 10.84,
+      "date": "43961",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 42,
+      "category": "Automotive",
+      "location": "Tesla",
+      "amount": 10.89,
+      "date": "43961",
+      "description": "Supercharging",
+      "remove": "X"
+    },
+    {
+      "id": 43,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 14.25,
+      "date": "43962",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 44,
+      "category": "Shopping",
+      "location": "TARGET",
+      "amount": 62.88,
+      "date": "43968",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 45,
+      "category": "Bills & Utilities",
+      "location": "BANFIELD-PET",
+      "amount": 87.9,
+      "date": "43971",
+      "description": "Monthly pet insurance",
+      "remove": "X"
+    },
+    {
+      "id": 46,
+      "category": "Health & Wellness",
+      "location": "CVS/PHARMACY",
+      "amount": 10,
+      "date": "43971",
+      "description": "Medication",
+      "remove": "X"
+    },
+    {
+      "id": 47,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 138.84,
+      "date": "43972",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 48,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 10.78,
+      "date": "43975",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 49,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 31.45,
+      "date": "43975",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 50,
+      "category": "Automotive",
+      "location": "AUTOZONE ",
+      "amount": 80.27,
+      "date": "43975",
+      "description": "Tools",
+      "remove": "X"
+    },
+    {
+      "id": 51,
+      "category": "Bills & Utilities",
+      "location": "TMOBILE",
+      "amount": 266.01,
+      "date": "43975",
+      "description": "May phone bill",
+      "remove": "X"
+    },
+    {
+      "id": 52,
+      "category": "Automotive",
+      "location": "AUTOZONE ",
+      "amount": 59.68,
+      "date": "43976",
+      "description": "Tool rental",
+      "remove": "X"
+    },
+    {
+      "id": 53,
+      "category": "Bills & Utilities",
+      "location": "ESURANCE CAR INSURANCE",
+      "amount": -42.72,
+      "date": "43976",
+      "description": "April car insurance credit",
+      "remove": "X"
+    },
+    {
+      "id": 54,
+      "category": "Automotive",
+      "location": "AUTOZONE ",
+      "amount": -59.68,
+      "date": "43977",
+      "description": "Tool rental refund",
+      "remove": "X"
+    },
+    {
+      "id": 55,
+      "category": "Food & Drink",
+      "location": "PANERA BREAD",
+      "amount": 14.2,
+      "date": "43978",
+      "description": "Eating out",
+      "remove": "X"
+    },
+    {
+      "id": 56,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 48.41,
+      "date": "43979",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 57,
+      "category": "Health & Wellness",
+      "location": "CRUNCH",
+      "amount": 272,
+      "date": "43979",
+      "description": "Gym fees",
+      "remove": "X"
+    },
+    {
+      "id": 58,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 16.98,
+      "date": "43982",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 59,
+      "category": "Groceries",
+      "location": "WINN DIXIE",
+      "amount": 43.48,
+      "date": "43982",
+      "description": "Groceries",
+      "remove": "X"
+    },
+    {
+      "id": 60,
+      "category": "Shopping",
+      "location": "APPLE.COM/BILL",
+      "amount": 15.93,
+      "date": "43984",
+      "description": "App subscription",
+      "remove": "X"
+    },
+    {
+      "id": 61,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 39.55,
+      "date": "43986",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 62,
+      "category": "Food & Drink",
+      "location": "SONIC DRIVE IN",
+      "amount": 7.69,
+      "date": "43986",
+      "description": "Eating out",
+      "remove": "X"
+    },
+    {
+      "id": 63,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 11.99,
+      "date": "43989",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 64,
+      "category": "Health & Wellness",
+      "location": "CRUNCH FITNESS",
+      "amount": 272,
+      "date": "43989",
+      "description": "Gym fees",
+      "remove": "X"
+    },
+    {
+      "id": 65,
+      "category": "Shopping",
+      "location": "EXPRESS",
+      "amount": 38.99,
+      "date": "43989",
+      "description": "New shorts",
+      "remove": "X"
+    },
+    {
+      "id": 66,
+      "category": "Groceries",
+      "location": "PUBLIX",
+      "amount": 15.05,
+      "date": "43989",
+      "description": "Groceries",
+      "remove": "X"
+    },
+    {
+      "id": 67,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 44.99,
+      "date": "43990",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 68,
+      "category": "Health & Wellness",
+      "location": "CRUNCH FITNESS",
+      "amount": 27.07,
+      "date": "43990",
+      "description": "Gym fees",
+      "remove": "X"
+    },
+    {
+      "id": 69,
+      "category": "Shopping",
+      "location": "PETCO",
+      "amount": 40.68,
+      "date": "43990",
+      "description": "Dog stuff",
+      "remove": "X"
+    },
+    {
+      "id": 70,
+      "category": "Shopping",
+      "location": "CALDERALAB.COM",
+      "amount": 77,
+      "date": "43991",
+      "description": "Face products",
+      "remove": "X"
+    },
+    {
+      "id": 71,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 14.25,
+      "date": "43993",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 72,
+      "category": "Fees & Adjustments",
+      "location": "REDEMPTION CREDIT",
+      "amount": -413.83,
+      "date": "43993",
+      "description": "Cash in points",
+      "remove": "X"
+    },
+    {
+      "id": 73,
+      "category": "Groceries",
+      "location": "WINN DIXIE",
+      "amount": 4.09,
+      "date": "43993",
+      "description": "Groceries",
+      "remove": "X"
+    },
+    {
+      "id": 74,
+      "category": "Food & Drink",
+      "location": "CHIPOTLE",
+      "amount": 9.99,
+      "date": "43994",
+      "description": "Eating out",
+      "remove": "X"
+    },
+    {
+      "id": 75,
+      "category": "Bills & Utilities",
+      "location": "Microsoft*Store",
+      "amount": 932,
+      "date": "43994",
+      "description": "Surface Go",
+      "remove": "X"
+    },
+    {
+      "id": 76,
+      "category": "Food & Drink",
+      "location": "PANERA BREAD",
+      "amount": 11.76,
+      "date": "43996",
+      "description": "Eating out",
+      "remove": "X"
+    },
+    {
+      "id": 77,
+      "category": "Food & Drink",
+      "location": "CHIPOTLE",
+      "amount": 9.99,
+      "date": "43998",
+      "description": "Eating out",
+      "remove": "X"
+    },
+    {
+      "id": 78,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 75.94,
+      "date": "44001",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 79,
+      "category": "Shopping",
+      "location": "TARGET",
+      "amount": 51.7,
+      "date": "44001",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 80,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 48.95,
+      "date": "44003",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 81,
+      "category": "Bills & Utilities",
+      "location": "BANFIELD-PET",
+      "amount": 87.9,
+      "date": "44003",
+      "description": "Monthly pet insurance",
+      "remove": "X"
+    },
+    {
+      "id": 82,
+      "category": "Health & Wellness",
+      "location": "CRUNCH FITNESS",
+      "amount": 272,
+      "date": "44003",
+      "description": "Gym fees",
+      "remove": "X"
+    },
+    {
+      "id": 83,
+      "category": "Food & Drink",
+      "location": "SONIC DRIVE IN",
+      "amount": 8.45,
+      "date": "44003",
+      "description": "Eating out",
+      "remove": "X"
+    },
+    {
+      "id": 84,
+      "category": "Gas",
+      "location": "WAWA",
+      "amount": 4.75,
+      "date": "44004",
+      "description": "Snacks for the beach",
+      "remove": "X"
+    },
+    {
+      "id": 85,
+      "category": "Home",
+      "location": "THE HOME DEPOT",
+      "amount": 26.92,
+      "date": "44005",
+      "description": "Landscaping projects",
+      "remove": "X"
+    },
+    {
+      "id": 86,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 15.11,
+      "date": "44006",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 87,
+      "category": "Bills & Utilities",
+      "location": "TMOBILE",
+      "amount": 269.28,
+      "date": "44006",
+      "description": "June phone bill",
+      "remove": "X"
+    },
+    {
+      "id": 88,
+      "category": "Home",
+      "location": "THE HOME DEPOT",
+      "amount": 40.02,
+      "date": "44007",
+      "description": "Landscaping projects",
+      "remove": "X"
+    },
+    {
+      "id": 89,
+      "category": "Shopping",
+      "location": "Amazon",
+      "amount": 308.49,
+      "date": "44008",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 90,
+      "category": "Bills & Utilities",
+      "location": "ESURANCE CAR INSURANCE",
+      "amount": 515.99,
+      "date": "44008",
+      "description": "June car insurance",
+      "remove": "X"
+    },
+    {
+      "id": 91,
+      "category": "Food & Drink",
+      "location": "PANERA BREAD",
+      "amount": 14.2,
+      "date": "44008",
+      "description": "Eating out",
+      "remove": "X"
+    },
+    {
+      "id": 92,
+      "category": "Shopping",
+      "location": "TARGET",
+      "amount": 64.4,
+      "date": "44008",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 93,
+      "category": "Home",
+      "location": "THE HOME DEPOT",
+      "amount": 19.33,
+      "date": "44008",
+      "description": "Landscaping projects",
+      "remove": "X"
+    },
+    {
+      "id": 94,
+      "category": "Gas",
+      "location": "7-ELEVEN",
+      "amount": 9.27,
+      "date": "44010",
+      "description": "Snacks for the beach",
+      "remove": "X"
+    },
+    {
+      "id": 95,
+      "category": "Home",
+      "location": "BED BATH &BEYOND",
+      "amount": 43.38,
+      "date": "44010",
+      "description": "Stuff for house",
+      "remove": "X"
+    },
+    {
+      "id": 96,
+      "category": "Travel",
+      "location": "CITY OF TREASURE ISLAND",
+      "amount": 3.3,
+      "date": "44010",
+      "description": "Beach parking",
+      "remove": "X"
+    },
+    {
+      "id": 97,
+      "category": "Travel",
+      "location": "CITY OF TREASURE ISLAND",
+      "amount": 4.4,
+      "date": "44010",
+      "description": "Beach parking",
+      "remove": "X"
+    },
+    {
+      "id": 98,
+      "category": "Shopping",
+      "location": "DICKS SPORTING GOODS",
+      "amount": 135.63,
+      "date": "44010",
+      "description": "Shoes",
+      "remove": "X"
+    },
+    {
+      "id": 99,
+      "category": "Automotive",
+      "location": "Tesla",
+      "amount": 9.72,
+      "date": "44010",
+      "description": "Supercharging",
+      "remove": "X"
+    },
+    {
+      "id": 100,
+      "category": "Shopping",
+      "location": "TILLYS",
+      "amount": 38.51,
+      "date": "44010",
+      "description": "Stuff for house",
+      "remove": "X"
+    }
+  ]
+}

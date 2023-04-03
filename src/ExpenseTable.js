@@ -16,7 +16,11 @@ export default function ExpenseTable(props) {
           <td>{item.date}</td>
           <td>{item.description}</td>
           <td className="text-center">
-            <button id={item.id} className="btn btn-danger">
+            <button
+              id={item.id}
+              onClick={handleDelete}
+              className="btn btn-danger"
+            >
               {item.remove}
             </button>
           </td>
@@ -24,6 +28,10 @@ export default function ExpenseTable(props) {
       ));
     }
   }
+  function handleDelete(e) {
+    props.onDeleteExpense(e.target.id);
+  }
+
   return (
     <div className="table-responsive-lg">
       <table className="table table-striped">

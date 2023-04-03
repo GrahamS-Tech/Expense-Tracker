@@ -5,7 +5,7 @@ export default function ExpenseInput(props) {
     id: 1,
     category: "",
     location: "",
-    amount: "",
+    amount: 0,
     date: "",
     description: "",
     remove: "X",

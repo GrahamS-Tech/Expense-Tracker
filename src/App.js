@@ -22,16 +22,30 @@ export default function App() {
     setRows([...rows, row]);
   }
 
+  function sampleData(data) {
+    setRows(data);
+  }
+
+  function clearData(data) {
+    setRows(data);
+  }
+
+  function deleteExpense(expenseId) {
+    const updatedRows = rows.filter((data) => data.id !== Number(expenseId));
+    console.log(updatedRows);
+    setRows(updatedRows);
+  }
+
   useEffect(() => {
     localStorage.setItem("rows", JSON.stringify(rows));
   }, [rows]);
 
   return (
     <div className="container">
-      <Header />
+      <Header sampleData={sampleData} clearData={clearData} />
       <ExpenseInput onSaveNewExpense={addExpense} />
       <div>
-        <ExpenseTable rows={rows} />
+        <ExpenseTable rows={rows} onDeleteExpense={deleteExpense} />
         <Chart />
       </div>
     </div>
