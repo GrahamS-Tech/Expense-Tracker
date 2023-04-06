@@ -33,7 +33,7 @@ export default function ExpenseTable(props) {
   }
 
   return (
-    <div className="table-responsive-lg vh-100 overflow-scroll">
+    <div className="table-responsive-lg max-vh-100 overflow-scroll">
       <table className="table table-striped">
         <thead className="table-primary">
           <tr>
