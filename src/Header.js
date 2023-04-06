@@ -14,7 +14,7 @@ export default function Header(props) {
   return (
     <div className="container p-3 my-1 border text-center">
       <h1>Expense Tracker</h1>
-      <nav className="navbar justify-content-end">
+      <div className="justify-content-end">
         <Dropdown>
           <Dropdown.Toggle variant="info" id="dropdown-basic">
             Tools
@@ -28,7 +28,7 @@ export default function Header(props) {
             </Dropdown.Item>
           </Dropdown.Menu>
         </Dropdown>
-      </nav>
+      </div>
     </div>
   );
 }

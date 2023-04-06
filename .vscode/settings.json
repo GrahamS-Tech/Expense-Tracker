@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/eb5e729b-bdc0-4de9-acad-752b319dc13d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/GKS-Expense-Tracker",
+  "appService.deploySubpath": "."
+}

@@ -46,7 +46,7 @@ export default function App() {
       <ExpenseInput onSaveNewExpense={addExpense} />
       <div>
         <ExpenseTable rows={rows} onDeleteExpense={deleteExpense} />
-        <Chart />
+        <Chart rows={rows} />
       </div>
     </div>
   );

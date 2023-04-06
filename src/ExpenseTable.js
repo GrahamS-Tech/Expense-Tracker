@@ -12,7 +12,7 @@ export default function ExpenseTable(props) {
           <td>{item.id}</td>
           <td>{item.category}</td>
           <td>{item.location}</td>
-          <td>{item.amount}</td>
+          <td>${item.amount.toFixed(2)}</td>
           <td>{item.date}</td>
           <td>{item.description}</td>
           <td className="text-center">
@@ -33,7 +33,7 @@ export default function ExpenseTable(props) {
   }
 
   return (
-    <div className="table-responsive-lg">
+    <div className="table-responsive-lg vh-100 overflow-scroll">
       <table className="table table-striped">
         <thead className="table-primary">
           <tr>
