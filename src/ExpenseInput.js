@@ -26,7 +26,7 @@ export default function ExpenseInput(props) {
     <div className="p-5">
       <form onSubmit={handleSubmit}>
         <div className="row">
-          <div className="col form-floating">
+          <div className="col-md-6 form-floating">
             <input
               required
               className="form-control mb-3"
@@ -36,11 +36,14 @@ export default function ExpenseInput(props) {
               value={input.category}
               onChange={handleChange}
             ></input>
-            <label className="form-label ps-4" htmlFor="category">
+            <label
+              className="form-label ps-4"
+              htmlFor="category"
+            >
               Category
             </label>
           </div>
-          <div className="col form-floating">
+          <div className="col-md-6 form-floating">
             <input
               required
               className="form-control mb-3"
@@ -50,13 +53,16 @@ export default function ExpenseInput(props) {
               value={input.location}
               onChange={handleChange}
             ></input>
-            <label className="form-label ps-4" htmlFor="location">
+            <label
+              className="form-label ps-4"
+              htmlFor="location"
+            >
               Location
             </label>
           </div>
         </div>
         <div className="row">
-          <div className="col form-floating">
+          <div className="col-md-6 form-floating">
             <input
               required
               className="form-control mb-3"
@@ -66,11 +72,14 @@ export default function ExpenseInput(props) {
               value={input.amount}
               onChange={handleChange}
             ></input>
-            <label className="form-label ps-4" htmlFor="amount">
+            <label
+              className="form-label ps-4"
+              htmlFor="amount"
+            >
               Amount
             </label>
           </div>
-          <div className="col form-floating">
+          <div className="col-md-6 form-floating">
             <input
               required
               className="form-control mb-3"
@@ -80,7 +89,10 @@ export default function ExpenseInput(props) {
               value={input.date}
               onChange={handleChange}
             ></input>
-            <label className="form-label ps-4" htmlFor="date">
+            <label
+              className="form-label ps-4"
+              htmlFor="date"
+            >
               Date
             </label>
           </div>
@@ -95,12 +107,18 @@ export default function ExpenseInput(props) {
             value={input.description}
             onChange={handleChange}
           ></input>
-          <label className="form-label" htmlFor="description">
+          <label
+            className="form-label"
+            htmlFor="description"
+          >
             Description
           </label>
         </div>
         <div>
-          <button type="submit" className="btn btn-success">
+          <button
+            type="submit"
+            className="btn btn-success"
+          >
             Add Expense
           </button>
         </div>

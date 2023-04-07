@@ -1,20 +1,11 @@
 {
   "expenses": [
     {
-      "id": 0,
-      "category": "Home",
-      "location": "THE HOME DEPOT",
-      "amount": 123.97,
-      "date": "04/21/2022",
-      "description": "Landscaping projects",
-      "remove": "X"
-    },
-    {
       "id": 1,
       "category": "Shopping",
       "location": "Amazon",
       "amount": 21.02,
-      "date": "04/22/2022",
+      "date": "2022-04-22",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -23,7 +14,7 @@
       "category": "Shopping",
       "location": "APPLE.COM/BILL",
       "amount": 15.93,
-      "date": "04/22/2022",
+      "date": "2022-04-22",
       "description": "App subscription",
       "remove": "X"
     },
@@ -32,7 +23,7 @@
       "category": "Home",
       "location": "THE HOME DEPOT",
       "amount": 21.79,
-      "date": "04/23/2022",
+      "date": "2022-04-23",
       "description": "Landscaping projects",
       "remove": "X"
     },
@@ -41,7 +32,7 @@
       "category": "Entertainment",
       "location": "GOOGLE *YouTube Videos",
       "amount": 4.35,
-      "date": "04/25/2022",
+      "date": "2022-04-25",
       "description": "Movie purchase",
       "remove": "X"
     },
@@ -50,7 +41,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 15.42,
-      "date": "04/26/2022",
+      "date": "2022-04-26",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -59,7 +50,7 @@
       "category": "Health & Wellness",
       "location": "CVS/PHARMACY",
       "amount": 10,
-      "date": "04/26/2022",
+      "date": "2022-04-26",
       "description": "Medication",
       "remove": "X"
     },
@@ -68,7 +59,7 @@
       "category": "Home",
       "location": "THE HOME DEPOT",
       "amount": 531.47,
-      "date": "04/26/2022",
+      "date": "2022-04-26",
       "description": "Landscaping projects",
       "remove": "X"
     },
@@ -77,7 +68,7 @@
       "category": "Groceries",
       "location": "WINN DIXIE",
       "amount": 8.56,
-      "date": "04/26/2022",
+      "date": "2022-04-26",
       "description": "Groceries",
       "remove": "X"
     },
@@ -86,7 +77,7 @@
       "category": "Home",
       "location": "THE HOME DEPOT",
       "amount": 28.23,
-      "date": "04/27/2022",
+      "date": "2022-04-27",
       "description": "Landscaping projects",
       "remove": "X"
     },
@@ -95,7 +86,7 @@
       "category": "Automotive",
       "location": "Tesla",
       "amount": 10.89,
-      "date": "04/29/2022",
+      "date": "2022-04-29",
       "description": "Supercharging",
       "remove": "X"
     },
@@ -104,7 +95,7 @@
       "category": "Entertainment",
       "location": "GOOGLE *YouTube Videos",
       "amount": 7.99,
-      "date": "04/30/2022",
+      "date": "2022-04-30",
       "description": "Movie purchase",
       "remove": "X"
     },
@@ -113,7 +104,7 @@
       "category": "Shopping",
       "location": "TARGET",
       "amount": 31.34,
-      "date": "04/30/2022",
+      "date": "2022-04-30",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -122,7 +113,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 14.25,
-      "date": "05/02/2022",
+      "date": "2022-05-02",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -131,7 +122,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 99.95,
-      "date": "05/02/2022",
+      "date": "2022-05-02",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -140,7 +131,7 @@
       "category": "Automotive",
       "location": "Tesla",
       "amount": 7.02,
-      "date": "05/02/2022",
+      "date": "2022-05-02",
       "description": "Supercharging",
       "remove": "X"
     },
@@ -149,7 +140,7 @@
       "category": "Home",
       "location": "THE HOME DEPOT",
       "amount": 46.33,
-      "date": "05/03/2022",
+      "date": "2022-05-03",
       "description": "Landscaping projects",
       "remove": "X"
     },
@@ -158,7 +149,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 29.99,
-      "date": "05/04/2022",
+      "date": "2022-05-04",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -167,7 +158,7 @@
       "category": "Shopping",
       "location": "COSTCO",
       "amount": 60,
-      "date": "05/07/2022",
+      "date": "2022-05-07",
       "description": "Groceries",
       "remove": "X"
     },
@@ -176,7 +167,7 @@
       "category": "Bills & Utilities",
       "location": "ESURANCE CAR INSURANCE",
       "amount": -42.72,
-      "date": "05/07/2022",
+      "date": "2022-05-07",
       "description": "March car insurance credit",
       "remove": "X"
     },
@@ -185,7 +176,7 @@
       "category": "Bills & Utilities",
       "location": "BANFIELD-PET",
       "amount": 87.9,
-      "date": "05/10/2022",
+      "date": "2022-05-10",
       "description": "Monthly pet insurance",
       "remove": "X"
     },
@@ -194,7 +185,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 78.54,
-      "date": "05/11/2022",
+      "date": "2022-05-11",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -203,7 +194,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 23.05,
-      "date": "05/11/2022",
+      "date": "2022-05-11",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -212,7 +203,7 @@
       "category": "Shopping",
       "location": "TARGET",
       "amount": 24.94,
-      "date": "05/11/2022",
+      "date": "2022-05-11",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -221,7 +212,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 26.99,
-      "date": "05/13/2022",
+      "date": "2022-05-13",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -230,7 +221,7 @@
       "category": "Home",
       "location": "THE HOME DEPOT",
       "amount": 2.02,
-      "date": "05/13/2022",
+      "date": "2022-05-13",
       "description": "Landscaping projects",
       "remove": "X"
     },
@@ -239,7 +230,7 @@
       "category": "Bills & Utilities",
       "location": "TMOBILE",
       "amount": 264.61,
-      "date": "05/14/2022",
+      "date": "2022-05-14",
       "description": "April phone bill",
       "remove": "X"
     },
@@ -248,7 +239,7 @@
       "category": "Bills & Utilities",
       "location": "ESURANCE CAR INSURANCE",
       "amount": 287.68,
-      "date": "05/16/2022",
+      "date": "2022-05-16",
       "description": "April car insurance",
       "remove": "X"
     },
@@ -257,7 +248,7 @@
       "category": "Groceries",
       "location": "BODYBUILDING.COM",
       "amount": 76.5,
-      "date": "05/20/2022",
+      "date": "2022-05-20",
       "description": "Workout stuff",
       "remove": "X"
     },
@@ -266,7 +257,7 @@
       "category": "Home",
       "location": "CODY POOLS INC",
       "amount": 1000,
-      "date": "05/20/2022",
+      "date": "2022-05-20",
       "description": "Pool deposit",
       "remove": "X"
     },
@@ -275,7 +266,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 35.74,
-      "date": "05/23/2022",
+      "date": "2022-05-23",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -284,7 +275,7 @@
       "category": "Shopping",
       "location": "APPLE.COM/BILL",
       "amount": 15.93,
-      "date": "05/23/2022",
+      "date": "2022-05-23",
       "description": "App subscription",
       "remove": "X"
     },
@@ -293,7 +284,7 @@
       "category": "Health & Wellness",
       "location": "CVS/PHARMACY",
       "amount": 35.12,
-      "date": "05/23/2022",
+      "date": "2022-05-23",
       "description": "Medication",
       "remove": "X"
     },
@@ -302,7 +293,7 @@
       "category": "Groceries",
       "location": "WINN DIXIE",
       "amount": 42.61,
-      "date": "05/23/2022",
+      "date": "2022-05-23",
       "description": "Groceries",
       "remove": "X"
     },
@@ -311,7 +302,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 22.94,
-      "date": "05/24/2022",
+      "date": "2022-05-24",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -320,7 +311,7 @@
       "category": "Home",
       "location": "THE HOME DEPOT",
       "amount": 89.69,
-      "date": "05/24/2022",
+      "date": "2022-05-24",
       "description": "Landscaping projects",
       "remove": "X"
     },
@@ -329,7 +320,7 @@
       "category": "Groceries",
       "location": "TARGET",
       "amount": 53.13,
-      "date": "05/26/2022",
+      "date": "2022-05-26",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -338,7 +329,7 @@
       "category": "Health & Wellness",
       "location": "WALGREENS",
       "amount": 26.45,
-      "date": "05/26/2022",
+      "date": "2022-05-26",
       "description": "Consumables",
       "remove": "X"
     },
@@ -347,7 +338,7 @@
       "category": "Food & Drink",
       "location": "7-ELEVEN",
       "amount": 17.9,
-      "date": "05/27/2022",
+      "date": "2022-05-27",
       "description": "Snacks for the beach",
       "remove": "X"
     },
@@ -356,7 +347,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 21.99,
-      "date": "05/28/2022",
+      "date": "2022-05-28",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -365,7 +356,7 @@
       "category": "Food & Drink",
       "location": "BURGER KING",
       "amount": 7.59,
-      "date": "05/28/2022",
+      "date": "2022-05-28",
       "description": "Eating out",
       "remove": "X"
     },
@@ -374,7 +365,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 10.84,
-      "date": "05/30/2022",
+      "date": "2022-05-30",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -383,7 +374,7 @@
       "category": "Automotive",
       "location": "Tesla",
       "amount": 10.89,
-      "date": "05/30/2022",
+      "date": "2022-05-30",
       "description": "Supercharging",
       "remove": "X"
     },
@@ -392,7 +383,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 14.25,
-      "date": "05/31/2022",
+      "date": "2022-05-31",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -401,7 +392,7 @@
       "category": "Shopping",
       "location": "TARGET",
       "amount": 62.88,
-      "date": "06/06/2022",
+      "date": "2022-06-06",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -410,7 +401,7 @@
       "category": "Bills & Utilities",
       "location": "BANFIELD-PET",
       "amount": 87.9,
-      "date": "06/09/2022",
+      "date": "2022-06-09",
       "description": "Monthly pet insurance",
       "remove": "X"
     },
@@ -419,7 +410,7 @@
       "category": "Health & Wellness",
       "location": "CVS/PHARMACY",
       "amount": 10,
-      "date": "06/09/2022",
+      "date": "2022-06-09",
       "description": "Medication",
       "remove": "X"
     },
@@ -428,7 +419,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 138.84,
-      "date": "06/10/2022",
+      "date": "2022-06-10",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -437,7 +428,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 10.78,
-      "date": "06/13/2022",
+      "date": "2022-06-13",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -446,7 +437,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 31.45,
-      "date": "06/13/2022",
+      "date": "2022-06-13",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -455,7 +446,7 @@
       "category": "Automotive",
       "location": "AUTOZONE ",
       "amount": 80.27,
-      "date": "06/13/2022",
+      "date": "2022-06-13",
       "description": "Tools",
       "remove": "X"
     },
@@ -464,7 +455,7 @@
       "category": "Bills & Utilities",
       "location": "TMOBILE",
       "amount": 266.01,
-      "date": "06/13/2022",
+      "date": "2022-06-13",
       "description": "May phone bill",
       "remove": "X"
     },
@@ -473,7 +464,7 @@
       "category": "Automotive",
       "location": "AUTOZONE ",
       "amount": 59.68,
-      "date": "06/14/2022",
+      "date": "2022-06-14",
       "description": "Tool rental",
       "remove": "X"
     },
@@ -482,7 +473,7 @@
       "category": "Bills & Utilities",
       "location": "ESURANCE CAR INSURANCE",
       "amount": -42.72,
-      "date": "06/14/2022",
+      "date": "2022-06-14",
       "description": "April car insurance credit",
       "remove": "X"
     },
@@ -491,7 +482,7 @@
       "category": "Automotive",
       "location": "AUTOZONE ",
       "amount": -59.68,
-      "date": "06/15/2022",
+      "date": "2022-06-15",
       "description": "Tool rental refund",
       "remove": "X"
     },
@@ -500,7 +491,7 @@
       "category": "Food & Drink",
       "location": "PANERA BREAD",
       "amount": 14.2,
-      "date": "06/16/2022",
+      "date": "2022-06-16",
       "description": "Eating out",
       "remove": "X"
     },
@@ -509,7 +500,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 48.41,
-      "date": "06/17/2022",
+      "date": "2022-06-17",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -518,7 +509,7 @@
       "category": "Health & Wellness",
       "location": "CRUNCH",
       "amount": 272,
-      "date": "06/17/2022",
+      "date": "2022-06-17",
       "description": "Gym fees",
       "remove": "X"
     },
@@ -527,7 +518,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 16.98,
-      "date": "06/20/2022",
+      "date": "2022-06-20",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -536,7 +527,7 @@
       "category": "Groceries",
       "location": "WINN DIXIE",
       "amount": 43.48,
-      "date": "06/20/2022",
+      "date": "2022-06-20",
       "description": "Groceries",
       "remove": "X"
     },
@@ -545,7 +536,7 @@
       "category": "Shopping",
       "location": "APPLE.COM/BILL",
       "amount": 15.93,
-      "date": "06/22/2022",
+      "date": "2022-06-22",
       "description": "App subscription",
       "remove": "X"
     },
@@ -554,7 +545,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 39.55,
-      "date": "06/24/2022",
+      "date": "2022-06-24",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -563,7 +554,7 @@
       "category": "Food & Drink",
       "location": "SONIC DRIVE IN",
       "amount": 7.69,
-      "date": "06/24/2022",
+      "date": "2022-06-24",
       "description": "Eating out",
       "remove": "X"
     },
@@ -572,7 +563,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 11.99,
-      "date": "06/27/2022",
+      "date": "2022-06-27",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -581,7 +572,7 @@
       "category": "Health & Wellness",
       "location": "CRUNCH FITNESS",
       "amount": 272,
-      "date": "06/27/2022",
+      "date": "2022-06-27",
       "description": "Gym fees",
       "remove": "X"
     },
@@ -590,7 +581,7 @@
       "category": "Shopping",
       "location": "EXPRESS",
       "amount": 38.99,
-      "date": "06/27/2022",
+      "date": "2022-06-27",
       "description": "New shorts",
       "remove": "X"
     },
@@ -599,7 +590,7 @@
       "category": "Groceries",
       "location": "PUBLIX",
       "amount": 15.05,
-      "date": "06/27/2022",
+      "date": "2022-06-27",
       "description": "Groceries",
       "remove": "X"
     },
@@ -608,7 +599,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 44.99,
-      "date": "06/28/2022",
+      "date": "2022-06-28",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -617,7 +608,7 @@
       "category": "Health & Wellness",
       "location": "CRUNCH FITNESS",
       "amount": 27.07,
-      "date": "06/28/2022",
+      "date": "2022-06-28",
       "description": "Gym fees",
       "remove": "X"
     },
@@ -626,7 +617,7 @@
       "category": "Shopping",
       "location": "PETCO",
       "amount": 40.68,
-      "date": "06/28/2022",
+      "date": "2022-06-28",
       "description": "Dog stuff",
       "remove": "X"
     },
@@ -635,7 +626,7 @@
       "category": "Shopping",
       "location": "CALDERALAB.COM",
       "amount": 77,
-      "date": "06/29/2022",
+      "date": "2022-06-29",
       "description": "Face products",
       "remove": "X"
     },
@@ -644,7 +635,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 14.25,
-      "date": "07/01/2022",
+      "date": "2022-07-01",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -653,7 +644,7 @@
       "category": "Groceries",
       "location": "WINN DIXIE",
       "amount": 4.09,
-      "date": "07/01/2022",
+      "date": "2022-07-01",
       "description": "Groceries",
       "remove": "X"
     },
@@ -662,7 +653,7 @@
       "category": "Food & Drink",
       "location": "CHIPOTLE",
       "amount": 9.99,
-      "date": "07/02/2022",
+      "date": "2022-07-02",
       "description": "Eating out",
       "remove": "X"
     },
@@ -671,7 +662,7 @@
       "category": "Bills & Utilities",
       "location": "Microsoft*Store",
       "amount": 932,
-      "date": "07/02/2022",
+      "date": "2022-07-02",
       "description": "Surface Go",
       "remove": "X"
     },
@@ -680,7 +671,7 @@
       "category": "Food & Drink",
       "location": "PANERA BREAD",
       "amount": 11.76,
-      "date": "07/04/2022",
+      "date": "2022-07-04",
       "description": "Eating out",
       "remove": "X"
     },
@@ -689,7 +680,7 @@
       "category": "Food & Drink",
       "location": "CHIPOTLE",
       "amount": 9.99,
-      "date": "07/06/2022",
+      "date": "2022-07-06",
       "description": "Eating out",
       "remove": "X"
     },
@@ -698,7 +689,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 75.94,
-      "date": "07/09/2022",
+      "date": "2022-07-09",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -707,7 +698,7 @@
       "category": "Shopping",
       "location": "TARGET",
       "amount": 51.7,
-      "date": "07/09/2022",
+      "date": "2022-07-09",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -716,7 +707,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 48.95,
-      "date": "07/11/2022",
+      "date": "2022-07-11",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -725,7 +716,7 @@
       "category": "Bills & Utilities",
       "location": "BANFIELD-PET",
       "amount": 87.9,
-      "date": "07/11/2022",
+      "date": "2022-07-11",
       "description": "Monthly pet insurance",
       "remove": "X"
     },
@@ -734,7 +725,7 @@
       "category": "Health & Wellness",
       "location": "CRUNCH FITNESS",
       "amount": 272,
-      "date": "07/11/2022",
+      "date": "2022-07-11",
       "description": "Gym fees",
       "remove": "X"
     },
@@ -743,7 +734,7 @@
       "category": "Food & Drink",
       "location": "SONIC DRIVE IN",
       "amount": 8.45,
-      "date": "07/11/2022",
+      "date": "2022-07-11",
       "description": "Eating out",
       "remove": "X"
     },
@@ -752,7 +743,7 @@
       "category": "Food & Drink",
       "location": "WAWA",
       "amount": 4.75,
-      "date": "07/12/2022",
+      "date": "2022-07-12",
       "description": "Snacks for the beach",
       "remove": "X"
     },
@@ -761,7 +752,7 @@
       "category": "Home",
       "location": "THE HOME DEPOT",
       "amount": 26.92,
-      "date": "07/13/2022",
+      "date": "2022-07-13",
       "description": "Landscaping projects",
       "remove": "X"
     },
@@ -770,7 +761,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 15.11,
-      "date": "07/14/2022",
+      "date": "2022-07-14",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -779,7 +770,7 @@
       "category": "Bills & Utilities",
       "location": "TMOBILE",
       "amount": 269.28,
-      "date": "07/14/2022",
+      "date": "2022-07-14",
       "description": "June phone bill",
       "remove": "X"
     },
@@ -788,7 +779,7 @@
       "category": "Home",
       "location": "THE HOME DEPOT",
       "amount": 40.02,
-      "date": "07/15/2022",
+      "date": "2022-07-15",
       "description": "Landscaping projects",
       "remove": "X"
     },
@@ -797,7 +788,7 @@
       "category": "Shopping",
       "location": "Amazon",
       "amount": 308.49,
-      "date": "07/16/2022",
+      "date": "2022-07-16",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -806,7 +797,7 @@
       "category": "Bills & Utilities",
       "location": "ESURANCE CAR INSURANCE",
       "amount": 515.99,
-      "date": "07/16/2022",
+      "date": "2022-07-16",
       "description": "June car insurance",
       "remove": "X"
     },
@@ -815,7 +806,7 @@
       "category": "Food & Drink",
       "location": "PANERA BREAD",
       "amount": 14.2,
-      "date": "07/16/2022",
+      "date": "2022-07-16",
       "description": "Eating out",
       "remove": "X"
     },
@@ -824,7 +815,7 @@
       "category": "Shopping",
       "location": "TARGET",
       "amount": 64.4,
-      "date": "07/16/2022",
+      "date": "2022-07-16",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -833,7 +824,7 @@
       "category": "Home",
       "location": "THE HOME DEPOT",
       "amount": 19.33,
-      "date": "07/16/2022",
+      "date": "2022-07-16",
       "description": "Landscaping projects",
       "remove": "X"
     },
@@ -842,7 +833,7 @@
       "category": "Food & Drink",
       "location": "7-ELEVEN",
       "amount": 9.27,
-      "date": "07/18/2022",
+      "date": "2022-07-18",
       "description": "Snacks for the beach",
       "remove": "X"
     },
@@ -851,7 +842,7 @@
       "category": "Home",
       "location": "BED BATH &BEYOND",
       "amount": 43.38,
-      "date": "07/18/2022",
+      "date": "2022-07-18",
       "description": "Stuff for house",
       "remove": "X"
     },
@@ -860,17 +851,8 @@
       "category": "Shopping",
       "location": "DICKS SPORTING GOODS",
       "amount": 135.63,
-      "date": "07/18/2022",
+      "date": "2022-07-18",
       "description": "Shoes",
-      "remove": "X"
-    },
-    {
-      "id": 96,
-      "category": "Automotive",
-      "location": "Tesla",
-      "amount": 9.72,
-      "date": "07/18/2022",
-      "description": "Supercharging",
       "remove": "X"
     }
   ]

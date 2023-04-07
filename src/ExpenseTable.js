@@ -12,14 +12,14 @@ export default function ExpenseTable(props) {
           <td>{item.id}</td>
           <td>{item.category}</td>
           <td>{item.location}</td>
-          <td>${item.amount.toFixed(2)}</td>
+          <td>${Number(item.amount).toFixed(2)}</td>
           <td>{item.date}</td>
           <td>{item.description}</td>
           <td className="text-center">
             <button
               id={item.id}
               onClick={handleDelete}
-              className="btn btn-danger"
+              className="btn btn-sm btn-danger"
             >
               {item.remove}
             </button>
@@ -33,7 +33,10 @@ export default function ExpenseTable(props) {
   }
 
   return (
-    <div className="table-responsive-lg max-vh-100 overflow-scroll">
+    <div
+      className="table-responsive-sm overflow-scroll"
+      style={{ maxHeight: "40pc" }}
+    >
       <table className="table table-striped">
         <thead className="table-primary">
           <tr>
